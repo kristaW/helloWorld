@@ -1,2 +1,3 @@
-# helloWorld
-setting up connection to pc
+# This is Hello World!
+
+Trevor wuz here, adding to ur docs!
